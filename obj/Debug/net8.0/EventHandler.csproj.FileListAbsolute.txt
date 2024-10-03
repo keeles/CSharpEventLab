@@ -1,0 +1,14 @@
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\bin\Debug\net8.0\EventHandler.exe
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\bin\Debug\net8.0\EventHandler.deps.json
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\bin\Debug\net8.0\EventHandler.runtimeconfig.json
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\bin\Debug\net8.0\EventHandler.dll
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\bin\Debug\net8.0\EventHandler.pdb
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\EventHandler.AssemblyInfoInputs.cache
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\EventHandler.AssemblyInfo.cs
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\EventHandler.dll
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\refint\EventHandler.dll
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\EventHandler.pdb
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\EventHandler.genruntimeconfig.cache
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\ref\EventHandler.dll
