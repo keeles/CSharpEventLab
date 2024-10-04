@@ -23,20 +23,20 @@ namespace EventHandler
 
         public void Encode(Video video)
         {
+            DateTime start = DateTime.Now;
             Console.WriteLine("Encoding video...");
-            OnVideoEncoded(video);
+            Thread.Sleep(3000);
+            DateTime end = DateTime.Now;
+            TimeSpan EncodingDuration = end - start;
+            OnVideoEncoded(video, EncodingDuration);
         }
 
-        protected virtual void OnVideoEncoded(Video video)
+        protected virtual void OnVideoEncoded(Video video, TimeSpan timeSpan)
         {
             if (VideoEncoded != null)
                 VideoEncoded(
                     this,
-                    new VideoEventArgs()
-                    {
-                        VideoTag = video,
-                        EncodingDuration = TimeSpan.FromSeconds(3),
-                    }
+                    new VideoEventArgs() { VideoTag = video, EncodingDuration = timeSpan }
                 );
         }
     }

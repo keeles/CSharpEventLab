@@ -12,3 +12,4 @@ C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\r
 C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\EventHandler.pdb
 C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\EventHandler.genruntimeconfig.cache
 C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\ref\EventHandler.dll
+C:\Users\kylee\OneDrive\Documents\BCIT\CS\Events\EventHandler\obj\Debug\net8.0\EventHandler.sourcelink.json
